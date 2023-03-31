@@ -2,6 +2,9 @@
 nome = input("Digite seu nome: ")
 nascimento = int(input("Digite seu ano de nascimento: "))
 
-calcularIdade = 2023 - nascimento
+def calcularIdade():
+    return 2023 - nascimento
 
-print(f"Olá {nome}, você terá {calcularIdade} anos de idade até o final deste ano")
+idade = calcularIdade()
+
+print(f"Olá {nome}, você terá {idade} anos de idade até o final deste ano")
