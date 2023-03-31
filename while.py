@@ -1,4 +1,4 @@
-#Whule
+#While
 numero = 1
 
 while numero != 0:
