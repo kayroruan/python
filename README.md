@@ -1,4 +1,4 @@
-### Python
+# Python
 
 Lista de atividade introdutiva envolvendo conhecimentos de python
 
