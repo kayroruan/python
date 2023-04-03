@@ -7,3 +7,5 @@ valor2 = calcularDesconto(100, 0.25)
 
 print(f"Valor do primeiro produto: {valor1}")
 print(f"Valor do segundo produto: {valor2}")
+
+#O segundo parametro tem valor default(padrão).
