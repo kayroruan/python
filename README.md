@@ -17,6 +17,12 @@ Algoritmo de Ordenação
 
 Lista, Tupla, Set e Dicionário
 
+Programação Orientada à Objetos
+
+Introdução à Bibliotecas
+
+Introdução à Banco de Dados
+
 
 ### Obs:
 Linguagem exercida como ferramenta de aprendizagem sugerida pela faculdade na disciplina de "Linguagem de Programação"
